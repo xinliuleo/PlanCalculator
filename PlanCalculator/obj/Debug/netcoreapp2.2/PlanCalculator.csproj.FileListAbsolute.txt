@@ -1,0 +1,14 @@
+C:\bitbucket\PlanCalculator\PlanCalculator\bin\Debug\netcoreapp2.2\PlanCalculator.deps.json
+C:\bitbucket\PlanCalculator\PlanCalculator\bin\Debug\netcoreapp2.2\PlanCalculator.runtimeconfig.json
+C:\bitbucket\PlanCalculator\PlanCalculator\bin\Debug\netcoreapp2.2\PlanCalculator.runtimeconfig.dev.json
+C:\bitbucket\PlanCalculator\PlanCalculator\bin\Debug\netcoreapp2.2\PlanCalculator.dll
+C:\bitbucket\PlanCalculator\PlanCalculator\bin\Debug\netcoreapp2.2\PlanCalculator.pdb
+C:\bitbucket\PlanCalculator\PlanCalculator\obj\Debug\netcoreapp2.2\PlanCalculator.csprojAssemblyReference.cache
+C:\bitbucket\PlanCalculator\PlanCalculator\obj\Debug\netcoreapp2.2\PlanCalculator.csproj.CoreCompileInputs.cache
+C:\bitbucket\PlanCalculator\PlanCalculator\obj\Debug\netcoreapp2.2\PlanCalculator.RazorAssemblyInfo.cache
+C:\bitbucket\PlanCalculator\PlanCalculator\obj\Debug\netcoreapp2.2\PlanCalculator.RazorAssemblyInfo.cs
+C:\bitbucket\PlanCalculator\PlanCalculator\obj\Debug\netcoreapp2.2\PlanCalculator.AssemblyInfoInputs.cache
+C:\bitbucket\PlanCalculator\PlanCalculator\obj\Debug\netcoreapp2.2\PlanCalculator.AssemblyInfo.cs
+C:\bitbucket\PlanCalculator\PlanCalculator\obj\Debug\netcoreapp2.2\PlanCalculator.RazorTargetAssemblyInfo.cache
+C:\bitbucket\PlanCalculator\PlanCalculator\obj\Debug\netcoreapp2.2\PlanCalculator.dll
+C:\bitbucket\PlanCalculator\PlanCalculator\obj\Debug\netcoreapp2.2\PlanCalculator.pdb

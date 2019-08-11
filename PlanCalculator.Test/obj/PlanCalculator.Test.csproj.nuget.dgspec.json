@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\bitbucket\\PlanCalculator\\PlanCalculator\\PlanCalculator.Test\\PlanCalculator.Test.csproj": {}
+    "C:\\bitbucket\\PlanCalculator\\PlanCalculator.Test\\PlanCalculator.Test.csproj": {}
   },
   "projects": {
-    "C:\\bitbucket\\PlanCalculator\\PlanCalculator\\PlanCalculator.Test\\PlanCalculator.Test.csproj": {
+    "C:\\bitbucket\\PlanCalculator\\PlanCalculator.Test\\PlanCalculator.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\bitbucket\\PlanCalculator\\PlanCalculator\\PlanCalculator.Test\\PlanCalculator.Test.csproj",
+        "projectUniqueName": "C:\\bitbucket\\PlanCalculator\\PlanCalculator.Test\\PlanCalculator.Test.csproj",
         "projectName": "PlanCalculator.Test",
-        "projectPath": "C:\\bitbucket\\PlanCalculator\\PlanCalculator\\PlanCalculator.Test\\PlanCalculator.Test.csproj",
+        "projectPath": "C:\\bitbucket\\PlanCalculator\\PlanCalculator.Test\\PlanCalculator.Test.csproj",
         "packagesPath": "C:\\Users\\liule1\\.nuget\\packages\\",
-        "outputPath": "C:\\bitbucket\\PlanCalculator\\PlanCalculator\\PlanCalculator.Test\\obj\\",
+        "outputPath": "C:\\bitbucket\\PlanCalculator\\PlanCalculator.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\bitbucket\\PlanCalculator\\PlanCalculator\\PlanCalculator\\PlanCalculator.csproj": {
-                "projectPath": "C:\\bitbucket\\PlanCalculator\\PlanCalculator\\PlanCalculator\\PlanCalculator.csproj"
+              "C:\\bitbucket\\PlanCalculator\\PlanCalculator\\PlanCalculator.csproj": {
+                "projectPath": "C:\\bitbucket\\PlanCalculator\\PlanCalculator\\PlanCalculator.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\bitbucket\\PlanCalculator\\PlanCalculator\\PlanCalculator\\PlanCalculator.csproj": {
+    "C:\\bitbucket\\PlanCalculator\\PlanCalculator\\PlanCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\bitbucket\\PlanCalculator\\PlanCalculator\\PlanCalculator\\PlanCalculator.csproj",
+        "projectUniqueName": "C:\\bitbucket\\PlanCalculator\\PlanCalculator\\PlanCalculator.csproj",
         "projectName": "PlanCalculator",
-        "projectPath": "C:\\bitbucket\\PlanCalculator\\PlanCalculator\\PlanCalculator\\PlanCalculator.csproj",
+        "projectPath": "C:\\bitbucket\\PlanCalculator\\PlanCalculator\\PlanCalculator.csproj",
         "packagesPath": "C:\\Users\\liule1\\.nuget\\packages\\",
-        "outputPath": "C:\\bitbucket\\PlanCalculator\\PlanCalculator\\PlanCalculator\\obj\\",
+        "outputPath": "C:\\bitbucket\\PlanCalculator\\PlanCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
